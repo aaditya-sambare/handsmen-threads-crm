@@ -1,0 +1,14 @@
+<ValidationRules>
+    <rule>
+        <name>Order_Amount_Positive</name>
+        <errorConditionFormula>Amount__c &lt;= 0</errorConditionFormula>
+        <errorMessage>Order amount must be greater than zero.</errorMessage>
+        <active>true</active>
+    </rule>
+    <rule>
+        <name>Order_Quantity_Positive</name>
+        <errorConditionFormula>Quantity__c &lt;= 0</errorConditionFormula>
+        <errorMessage>Order quantity must be greater than zero.</errorMessage>
+        <active>true</active>
+    </rule>
+</ValidationRules>
