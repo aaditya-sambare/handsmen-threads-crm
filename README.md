@@ -138,3 +138,20 @@ Salesforce Intern
 This project was created for **internship learning purposes** and is **not connected to any real customer or business data**.
 
 ---
+
+## Screenshots
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 58 44 PM" src="https://github.com/user-attachments/assets/66f78c67-2d14-485c-bcb2-019e35bdaeba" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 58 56 PM" src="https://github.com/user-attachments/assets/3e16ad9d-724e-412d-a432-41c062c2014c" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 59 14 PM" src="https://github.com/user-attachments/assets/b9cdf3ea-fcf5-46a3-aa18-4a21bbd93a71" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 59 25 PM" src="https://github.com/user-attachments/assets/54c2c193-08a4-4da3-ab74-f6c6563009fd" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 59 35 PM" src="https://github.com/user-attachments/assets/28f2c186-8af3-4e83-9ca6-80e45ca8a762" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 59 50 PM" src="https://github.com/user-attachments/assets/f038f60e-11b1-4373-9475-97dbedb8af18" />
+<img width="1440" height="932" alt="Screenshot 2025-07-18 at 11 59 57 PM" src="https://github.com/user-attachments/assets/6afd28b6-847b-4698-81d1-21ae69a61190" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 10 AM" src="https://github.com/user-attachments/assets/4a9eec87-9dcd-4051-9f70-06750878167c" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 21 AM" src="https://github.com/user-attachments/assets/7f19d0f6-58ef-4102-8d0c-5e90734e97cd" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 27 AM" src="https://github.com/user-attachments/assets/0342727a-dc62-40f7-99fa-a2bb3968ce61" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 33 AM" src="https://github.com/user-attachments/assets/448646b0-63a9-439f-a106-0d43d4f1d05d" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 45 AM" src="https://github.com/user-attachments/assets/d3e312e7-cd49-4f6c-9f54-67fed5eeb2bb" />
+<img width="1440" height="932" alt="Screenshot 2025-07-19 at 12 00 52 AM" src="https://github.com/user-attachments/assets/bc6ae590-876e-4647-84d1-968651f91aa2" />
+
+---
